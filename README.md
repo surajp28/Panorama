@@ -9,12 +9,12 @@ Pick your camera, record your daily drama, the rest will be taken care by Panora
 
 Team Members:
 
-https://github.com/airavata-courses/Panorama/blob/Update-ReadME.md/Photos/suraj.jpeg Photos/vishesh.jpg
+![](Photos/suraj.jpg)
 
 1. Suraj Ramesh Punjabi (surajp28):
     Suraj is currently completing his Masters in Indiana University in the field of Computer Science. He has 2.5 years of experience in the I.T industry, working with ITIVITI pvt ltd as a Software Engineer. His significant role includes creating 'Non-fix protocol' parser based on client requirement using java. Hailed from Mumbai University, with a Bachelor's degree in Computer Engineering, he intends to strengthen his core software development skills via this course.
 
-
+![](Photos/vishesh.jpg)
 2. Vishesh Wasudeo Dembla (visheshdembla):
     Vishesh is a Software Engineer with experience in Backend Development, Compiler Design and Machine Learning. After finishing his undergraduate degree in Information Technology, he worked at SAP for 3.5 years before joining IU. With this course, he intends to gain practical distributed systems skills as well as learn about good open source practices.
 
