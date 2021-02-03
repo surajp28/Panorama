@@ -13,7 +13,7 @@ Team Members:
 
 
  <img src="Photos/vishesh.jpg" alt="drawing" width="130" ALIGN ="left"/> Vishesh Wasudeo Dembla (visheshdembla):
-    Vishesh is a Software Engineer with experience in Backend Development, Compiler Design and Machine Learning. After finishing his undergraduate degree in Information Technology, he worked at SAP for 3.5 years before joining IU. His work revolved around developing framework for business software. With this course, he intends to gain practical distributed systems skills as well as learn about good open source practices.
+    Vishesh is a Software Engineer with experience in Backend Development, Compiler Design and Machine Learning. After finishing his undergraduate degree in Information Technology, he worked at SAP for 3.5 years before joining Indiana University, Bloomington. His work revolved around developing framework for business software. With this course, he intends to gain practical distributed systems skills as well as learn about good open source practices.
  
  <img src="Photos/ayyisha.png" alt="drawing" width="130" height= "130" ALIGN ="left"/>
 
