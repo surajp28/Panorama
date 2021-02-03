@@ -16,6 +16,7 @@ Team Members:
     Vishesh is a Software Engineer with experience in Backend Development, Compiler Design and Machine Learning. After finishing his undergraduate degree in Information Technology, he worked at SAP for 3.5 years before joining IU. With this course, he intends to gain practical distributed systems skills as well as learn about good open source practices.
  
  <img src="Photos/ayyisha.png" alt="drawing" width="130" height= "130" ALIGN ="left"/>
+
 Ayisha Tabbassum (ayishacs):
     Ayisha is an AWS certified Cloud and DevOps Engineer with experience in E-Commerce, Big Data and Cloud domain. After completing her bachelors degree in Electronics and Communication, she pursued her career with Cognizant Softvision, Ugam and UST global for 5 years before joining IUB for her graduate studies in Computer Science. Having worked in multi cloud environment such as AWS, GCP and Azure, she is willing to enhance her skills and gain in-depth knowledge of distributed computing concepts along with carving a niche for herself with open source community through this course
 
