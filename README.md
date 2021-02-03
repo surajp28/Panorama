@@ -9,11 +9,11 @@ Panorama is a cloud based photo storage and sharing application. It is a user fr
 Team Members:
 
 <img src="Photos/suraj.jpg" alt="drawing" width="130" ALIGN ="left"/> Suraj Ramesh Punjabi (surajp28):
-    Suraj is currently completing his Masters in Indiana University in the field of Computer Science. He has 2.5 years of experience in the I.T industry, working with ITIVITI pvt ltd as a Software Engineer. Hailed from Mumbai University, with a Bachelor's degree in Computer Engineering, he intends to strengthen his core software development skills via this course
+    Suraj is currently completing his Masters in Indiana University in the field of Computer Science. He has 2.5 years of experience in the I.T industry, working with ITIVITI pvt ltd as a Software Engineer.His work has mainly been surrounded by java programming with exposure to databases and web development. Hailed from Mumbai University, with a Bachelor's degree in Computer Engineering, he intends to strengthen his core software development skills via this course
 
 
  <img src="Photos/vishesh.jpg" alt="drawing" width="130" ALIGN ="left"/> Vishesh Wasudeo Dembla (visheshdembla):
-    Vishesh is a Software Engineer with experience in Backend Development, Compiler Design and Machine Learning. After finishing his undergraduate degree in Information Technology, he worked at SAP for 3.5 years before joining IU. With this course, he intends to gain practical distributed systems skills as well as learn about good open source practices.
+    Vishesh is a Software Engineer with experience in Backend Development, Compiler Design and Machine Learning. After finishing his undergraduate degree in Information Technology, he worked at SAP for 3.5 years before joining IU. His work revolved around developing framework for business software. With this course, he intends to gain practical distributed systems skills as well as learn about good open source practices.
  
  <img src="Photos/ayyisha.png" alt="drawing" width="130" height= "130" ALIGN ="left"/>
 
