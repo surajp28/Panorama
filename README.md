@@ -8,4 +8,4 @@ Team Members:
 2. Vishesh Wasudeo Dembla (visheshdembla)
 3. Ayisha Tabbassum (ayishacs)
 
-
+[Napkin diagram for Panorama Application](images/panoramanapkindiagram.jpg)
