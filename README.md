@@ -3,8 +3,7 @@ Spring 2021 Project Team
 
 [Bi-Weekly Meeting Notes](res/meetings)
 
-Project Description:
-Panorama is a cloud based photo storage and sharing application. It is a user friendly application providing multiple functionalities that include uploading, downloading, sharing and organizing your photos. The photos would be saved in an encrypted format such that they could only be accessed by the authenticated user. With bulk uploads and downloads, Panorama would ensure that you do not miss out on any photograph or information conveyed via photos. Your photos could be your life's greatest moments or cherished memories and Panorama cloud storage would ensure that they dont get lost in your phone's local storage. So pick your camera, record your daily drama, the rest will be taken care by Panorama!
+Project Description: Panorama is a photo storage and sharing application that is cloud-based. It is a user-friendly application that provides various features, such as uploading, downloading, sharing and organizing your photos. The images would be stored in an encrypted format in such a manner that only the authenticated user could access photos.With bulk uploads and downloads, Panorama will ensure that any thought or information transmitted through photos is not missed. Your photos could be the best moments of your life or precious memories, and Panorama cloud storage will ensure that they do not get lost in the local storage of your computer. So pick your camera, record your daily drama, and Panorama will take care of the rest!
 
 Team Members:
 
