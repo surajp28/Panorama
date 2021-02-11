@@ -1,0 +1,23 @@
+The meeting minutes were as follows:
+For milestone-2:
+  Deadline : February 21,2021
+  
+  Technologies Decided
+    1. Front-End: React JS
+    2. Back-End: Postgres DB
+    
+  Programming Languages:
+    1. JavaScript
+    2. Java
+    3. Python
+    
+   Services Decided:
+1.    User Service : login services
+2.    Image service: Take images from front end and store them
+3.    *Albums/meta data service - Can be a separate service or can be clubbed with Image service. 
+4.    Share service - Enable sharing based on user id
+5.    Search - date, resolution, orientation, filtering.
+6.    Relational and noSql service.
+    
+    Daily Meet @6:30 pm to discuss the progress of the milestone except Mondays.
+    Mondays at 8 pm.
