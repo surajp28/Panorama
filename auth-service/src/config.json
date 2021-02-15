@@ -1,0 +1,7 @@
+{
+    "mongoUri": "mongodb://localhost:27017/",
+    "mongoDatabase": "panorama",
+    "serverIP" : "0.0.0.0",
+    "servicePort" : "50051",
+    "protofile" : "user.proto"
+}
