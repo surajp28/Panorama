@@ -1,0 +1,8 @@
+{
+    "expiration" : "1d",
+    "issuer" : "https://panorama.indiana.edu",
+    "secret" : "secret",
+    "serverIP" : "0.0.0.0",
+    "servicePort" : "50052",
+    "protofile" : "session.proto"
+}
