@@ -1,4 +1,4 @@
-export default interface IBasic {
+export default interface IBasicRequest {
     username: string,
     password: string
 }

@@ -1,0 +1,25 @@
+syntax = "proto3";
+package sess;
+
+
+service Session {
+    rpc getToken(Username) returns (Token);
+    rpc verifyToken(UsernameAndToken) returns (VerificationResult); 
+}
+
+message Token {
+    string token = 1;
+}
+
+message Username {
+    string username = 1;
+}
+
+message UsernameAndToken {
+    string username = 1;
+    string token = 2;
+}
+
+message VerificationResult {
+    bool verified = 1;
+}

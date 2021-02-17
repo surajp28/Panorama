@@ -12,5 +12,6 @@ message basicCreds {
 }
 
 message authResult {
-    bool success = 1;
+    bool success = 4;
+    string token = 3;
 }
